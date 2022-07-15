@@ -1,2 +1,2 @@
 # mini-atm
-only easy to use
+#easy to use
